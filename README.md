@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning C and XMPP
+- 👯 I’m looking to collaborate on Free Software
+- 📫 How to reach me via XMPP (E**X**tensible **M**essaging and **P**resence **P**rotocol)
+
 <!--
 **DebXWoody/DebXWoody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
