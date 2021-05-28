@@ -6,7 +6,7 @@
 
 ### E-Mail
 
-If you didn't, you should try [neomutt](https://neomutt.org/)! It's may favorite mail client 📬️!
+If you didn't, you should try [neomutt](https://neomutt.org/)! It's my favorite mail client 📬️!
 
 
 <!--
